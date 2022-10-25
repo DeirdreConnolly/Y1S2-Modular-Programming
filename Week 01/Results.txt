@@ -1,0 +1,6 @@
+Name		Result		Grade
+sghrsgui		34			Fail
+g nu		45			Pass
+sdg j		45			Pass
+erf gerg		34			Fail
+Average: 	8.5
