@@ -1,0 +1,3 @@
+Italy 65
+Spain 50
+Ireland 4.5

@@ -1,0 +1,16 @@
+Fred
+4
+Ann
+5
+May
+6
+Michael
+7
+Arthur
+4
+Patrick
+3
+Zoe
+2
+Hilda
+3

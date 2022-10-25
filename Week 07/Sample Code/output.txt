@@ -1,0 +1,5 @@
+Mary is 4 years old.
+Ann is 7 years old.
+Ben is 9 years old.
+Kate is 2 years old.
+Emily is 1 years old.
