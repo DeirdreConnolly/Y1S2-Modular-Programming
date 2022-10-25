@@ -1,0 +1,5 @@
+e588040 Added Functions: Open account Close account Withdraw money Deposit money Generate report Quit Write to file
+68b3bba Added Functions: Open account Close account Withdraw money Deposit money Generate report Quit Write to file
+0e985f3 Added Functions: Open account Close account Withdraw money Deposit money Generate report Quit Write to file
+688cb01 Added functions: open account, close account, withdraw money, deposit money, generate report, quit, write to file
+7da0242 Testing editing files

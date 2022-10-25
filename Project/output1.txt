@@ -1,0 +1,71 @@
+commit e58804025fac683f6b1d8fa8c6f70ef6fefdbdf0
+Author: Deirdre Connolly <deirdre.connolly1@mycit.ie>
+Date:   Sun Apr 22 00:27:59 2018 +0100
+
+    Added Functions:
+    Open account
+    Close account
+    Withdraw money
+    Deposit money
+    Generate report
+    Quit
+    Write to file
+    
+    Change(s) Made:
+    Changed all instances of "cash" to "money", as per assessment wording
+    
+    Clean-Up:
+    Tabs, indents, spaces
+    Comments aligned, easier to read
+    Fixed spellings, capitalisation, grammar
+    Changed some characters for better readability
+
+commit 68b3bbaf3188680ae51b3565fe444fc038658dcf
+Author: Deirdre Connolly <deirdre.connolly1@mycit.ie>
+Date:   Sun Apr 22 00:20:21 2018 +0100
+
+    Added Functions:
+    Open account
+    Close account
+    Withdraw money
+    Deposit money
+    Generate report
+    Quit
+    Write to file
+    
+    Change(s) Made:
+    Changed all instances of "cash" to "money", as per assessment wording
+    
+    Clean-Up:
+    Tabs, indents, spaces
+    Comments aligned, easier to read
+    Fixed spellings, capitalisation, grammar
+
+commit 0e985f361ae2c615551d324395e42a9fe3e80083
+Author: Deirdre Connolly <deirdre.connolly1@mycit.ie>
+Date:   Sun Apr 22 00:13:26 2018 +0100
+
+    Added Functions:
+    Open account
+    Close account
+    Withdraw money
+    Deposit money
+    Generate report
+    Quit
+    Write to file
+    
+    Change(s) Made:
+    Changed all instances of "cash" to "money", as per assessment wording
+
+commit 688cb01591cb055cc58be09f767b4e573b2cb77a
+Author: Deirdre Connolly <deirdre.connolly1@mycit.ie>
+Date:   Sat Apr 21 23:57:04 2018 +0100
+
+    Added functions:
+    open account, close account, withdraw money, deposit money, generate report, quit, write to file
+
+commit 7da02424a0abf9c9918762a68520908c1f414530
+Author: Deirdre Connolly <deirdre.connolly1@mycit.ie>
+Date:   Wed Apr 18 12:45:01 2018 +0100
+
+    Testing editing files
